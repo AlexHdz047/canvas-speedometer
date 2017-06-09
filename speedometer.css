@@ -1,11 +1,3 @@
-body {
-  margin: 1em auto;
-}
-
-div, form {
-  margin: 1em;
-}
-
 .demo {
   display: inline-block;
 }
